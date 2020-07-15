@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-typescript-antdesign",
+  "version": "1.0.0",
+  "description": "React typescript boilerplate with antd",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g30elipse/cra-template-typescript-antdesign.git"
+  },
+  "keywords": [
+    "antd",
+    "cra",
+    "create-react-app",
+    "create-react-app-typescript",
+    "typescript",
+    "react"
+  ],
+  "author": "mukut brahma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/g30elipse/cra-template-typescript-antdesign/issues"
+  },
+  "homepage": "https://github.com/g30elipse/cra-template-typescript-antdesign#readme"
+}
